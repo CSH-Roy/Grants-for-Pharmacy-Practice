@@ -1,7 +1,5 @@
 name: Daily Grant Scraper
 
-# Runs every day at 07:00 AM IST (01:30 UTC)
-# Also triggered manually from Actions tab
 on:
   schedule:
     - cron: "30 1 * * *"
@@ -12,56 +10,38 @@ permissions:
 
 jobs:
   scrape:
-    name: Scrape ICMR and ANRF, update dashboard
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
 
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.11
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml
 
       - name: Run scraper
         run: python scraper.py
         env:
           TZ: Asia/Kolkata
 
-      - name: Check output file exists
-        run: |
-          if [ ! -f grants_live.json ]; then
-            echo "grants_live.json was not created. Scraper failed."
-            exit 1
-          fi
-          python3 -c "
-import json
-d = json.load(open('grants_live.json'))
-print('Scraped at :', d['scraped_label'])
-print('Total grants:', d['total'])
-print('By status  :', d['by_status'])
-urgent = d.get('urgent_grants', [])
-if urgent:
-    print('URGENT:', urgent)
-"
+      - name: Verify output
+        run: python3 -c 'import json; d=json.load(open("grants_live.json")); print("Total:", d["total"])'
 
-      - name: Commit and push grants_live.json
+      - name: Commit and push
         run: |
           git config user.name "grantmap-bot"
           git config user.email "grantmap-bot@noreply.github.com"
           git add grants_live.json
           if git diff --staged --quiet; then
-            echo "No changes detected. Skipping commit."
+            echo "No changes."
           else
-            git commit -m "Auto-update grants_live.json $(date +'%d %b %Y %H:%M IST')"
+            git commit -m "Auto-update grants_live.json"
             git push
-            echo "Pushed successfully."
           fi

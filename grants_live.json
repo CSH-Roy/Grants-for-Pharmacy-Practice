@@ -1,19 +1,16 @@
 {
-  "scraped_at": "2026-05-19T17:57:35+05:30",
-  "scraped_label": "19 May 2026, 05:57 PM IST",
-  "total": 34,
+  "scraped_at": "2026-05-20T17:34:33+05:30",
+  "scraped_label": "20 May 2026, 05:34 PM IST",
+  "total": 36,
   "by_status": {
     "closed": 4,
     "upcoming": 4,
     "rolling": 6,
-    "closing": 6,
+    "closing": 8,
     "open": 9,
     "anticipated": 5
   },
   "urgent_grants": [
-    "Search for ICMR's calls for proposals Title Date Search Reset Archive Serial Number Title",
-    "Archive Serial Number Title",
-    "Serial Number Title",
     "LAUNCHing Leaders for U.S. Global Health Research (D43)"
   ],
   "grants": [
@@ -25,7 +22,7 @@
       "status": "closed",
       "dl": "2026-02-10",
       "dlLabel": "Feb 10, 2026 🚨 URGENT",
-      "days_remaining": -98,
+      "days_remaining": -99,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Senior Fellowship",
       "tags": [
@@ -35,7 +32,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Very senior Indian scientists with outstanding contributions",
         "Must hold regular position at recognised Indian institution"
@@ -45,7 +42,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_2",
@@ -55,7 +52,7 @@
       "status": "closed",
       "dl": "2026-02-17",
       "dlLabel": "Feb 17, 2026 🚨 URGENT",
-      "days_remaining": -91,
+      "days_remaining": -92,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Post-Doctoral Fellowship",
       "tags": [
@@ -67,7 +64,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian PhD holders within 2 years of degree award",
         "Age ≤35 years (relaxation for SC/ST/OBC/Women)",
@@ -78,7 +75,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_3",
@@ -88,7 +85,7 @@
       "status": "closed",
       "dl": "2026-05-08",
       "dlLabel": "May 8, 2026 🚨 URGENT",
-      "days_remaining": -11,
+      "days_remaining": -12,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Research Grant",
       "tags": [
@@ -99,7 +96,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at UGC/AICTE-recognised institutions",
         "PhD qualification mandatory for PI",
@@ -111,7 +108,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_4",
@@ -121,7 +118,7 @@
       "status": "closed",
       "dl": "2026-05-08",
       "dlLabel": "May 8, 2026 🚨 URGENT",
-      "days_remaining": -11,
+      "days_remaining": -12,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Research Grant",
       "tags": [
@@ -132,7 +129,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at UGC/AICTE-recognised institutions",
         "PhD qualification mandatory for PI",
@@ -144,7 +141,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_5",
@@ -154,7 +151,7 @@
       "status": "upcoming",
       "dl": "2026-07-31",
       "dlLabel": "Jul 31, 2026",
-      "days_remaining": 73,
+      "days_remaining": 72,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Senior Fellowship",
       "tags": [
@@ -164,7 +161,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Eminent senior Indian scientists with international recognition",
         "All disciplines including biomedical, pharmacy, clinical research"
@@ -174,7 +171,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_6",
@@ -184,7 +181,7 @@
       "status": "upcoming",
       "dl": "2026-10-15",
       "dlLabel": "Oct 15, 2026",
-      "days_remaining": 149,
+      "days_remaining": 148,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Research Grant",
       "tags": [
@@ -195,7 +192,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at UGC/AICTE-recognised institutions",
         "PhD qualification mandatory for PI",
@@ -207,7 +204,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_7",
@@ -217,7 +214,7 @@
       "status": "upcoming",
       "dl": "2026-11-03",
       "dlLabel": "Nov 3, 2026",
-      "days_remaining": 168,
+      "days_remaining": 167,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Inclusivity Grant",
       "tags": [
@@ -228,7 +225,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at UGC/AICTE-recognised institutions",
         "PhD qualification mandatory for PI",
@@ -240,7 +237,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_8",
@@ -250,7 +247,7 @@
       "status": "upcoming",
       "dl": "2026-12-02",
       "dlLabel": "Dec 2, 2026",
-      "days_remaining": 197,
+      "days_remaining": 196,
       "funding": "Amount as per ANRF norms (multi-year)",
       "cat2": "Early Career Grant",
       "tags": [
@@ -262,7 +259,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at UGC/AICTE-recognised institutions",
         "PhD qualification mandatory for PI",
@@ -274,7 +271,7 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "anrf_scraped_9",
@@ -296,7 +293,7 @@
       ],
       "focus": "Advanced research across all disciplines including pharmacy, clinical research, pharmacovigilance, biomedical, and neuroscience. Check anrfonline.in for full call details.",
       "url": "https://anrfonline.in",
-      "source": "anrfonline.in / phdtalks.org (verified 19 May 2026, 05:57 PM IST)",
+      "source": "anrfonline.in / phdtalks.org (verified 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers currently working outside India",
         "Age ≤40 years at time of application",
@@ -307,17 +304,17 @@
         "Private college faculty without institutional recognition"
       ],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "icmr_scraped_1",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
-      "title": "Announcements ⮜ ⏸ ⮞ 11th GACD call on Multisectoral Approaches for NCDs",
+      "title": "Announcements ⮜ ⏸ ⮞ Inviting Expression of Interest (EOI) for Participation in “Breast Cancer study to Improve Survival in the UT of Jammu & Kashmir”",
       "status": "closing",
-      "dl": "2026-06-17",
-      "dlLabel": "Jun 17, 2026",
-      "days_remaining": 29,
+      "dl": "2026-06-19",
+      "dlLabel": "Jun 19, 2026",
+      "days_remaining": 30,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -327,8 +324,8 @@
         "Pharmacy"
       ],
       "focus": "Health research — see official ICMR page for full details.",
-      "url": "https://www.gacd.org/funding/current-call-for-applications/draft-sectors-call ",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Call/1779275756_eoi_1jk_20052026.pdf",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -336,17 +333,46 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "icmr_scraped_2",
+      "funder": "ICMR",
+      "cat": "🔄 Live – ICMR",
+      "title": "Inviting Expression of Interest (EOI) for Participation in “Breast Cancer study to Improve Survival in the UT of Jammu & Kashmir”",
+      "status": "closing",
+      "dl": "2026-06-19",
+      "dlLabel": "Jun 19, 2026",
+      "days_remaining": 30,
+      "funding": "As per ICMR norms",
+      "cat2": "ICMR Grant / EoI",
+      "tags": [
+        "India",
+        "Clinical",
+        "Health",
+        "Pharmacy"
+      ],
+      "focus": "Health research — see official ICMR page for full details.",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Call/1779275756_eoi_1jk_20052026.pdf",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
+      "elig": [
+        "Indian researchers at recognised institutions",
+        "PI must hold MD/PhD or equivalent",
+        "See official call PDF for full eligibility"
+      ],
+      "inelig": [],
+      "scraped": true,
+      "scraped_at": "2026-05-20T17:34:33+05:30"
+    },
+    {
+      "id": "icmr_scraped_3",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
       "title": "11th GACD call on Multisectoral Approaches for NCDs",
       "status": "closing",
       "dl": "2026-06-17",
       "dlLabel": "Jun 17, 2026",
-      "days_remaining": 29,
+      "days_remaining": 28,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -357,7 +383,7 @@
       ],
       "focus": "Health research — see official ICMR page for full details.",
       "url": "https://www.gacd.org/funding/current-call-for-applications/draft-sectors-call ",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -365,17 +391,17 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
-      "id": "icmr_scraped_3",
+      "id": "icmr_scraped_4",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
       "title": "Call for Proposals for Long Term & Short Term Abroad under HRD Schemes for the Financial Year 2026–27",
       "status": "open",
       "dl": "2026-06-30",
       "dlLabel": "Jun 30, 2026",
-      "days_remaining": 42,
+      "days_remaining": 41,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -386,7 +412,7 @@
       ],
       "focus": "Health research — see official ICMR page for full details.",
       "url": "https://www.icmr.gov.in/icmrobject/uploads/Documents/1777270497_1776842672_call_shortterm_longterm.pdf",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -394,17 +420,17 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
-      "id": "icmr_scraped_4",
+      "id": "icmr_scraped_5",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
       "title": "Search for ICMR's calls for proposals Title Date Search Reset Archive Serial Number Title",
       "status": "closing",
-      "dl": "2026-05-20",
-      "dlLabel": "May 20, 2026 🚨 URGENT",
-      "days_remaining": 1,
+      "dl": "2026-05-31",
+      "dlLabel": "May 31, 2026",
+      "days_remaining": 11,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -415,7 +441,7 @@
       ],
       "focus": "Health research — see official ICMR page for full details.",
       "url": "https://www.icmr.gov.in/reset_search/call-for-proposals",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -423,17 +449,17 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
-      "id": "icmr_scraped_5",
+      "id": "icmr_scraped_6",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
       "title": "Archive Serial Number Title",
       "status": "closing",
-      "dl": "2026-05-20",
-      "dlLabel": "May 20, 2026 🚨 URGENT",
-      "days_remaining": 1,
+      "dl": "2026-05-31",
+      "dlLabel": "May 31, 2026",
+      "days_remaining": 11,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -444,7 +470,7 @@
       ],
       "focus": "Health research — see official ICMR page for full details.",
       "url": "https://www.icmr.gov.in/call-for-proposals?archive=1",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -452,17 +478,17 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
-      "id": "icmr_scraped_6",
+      "id": "icmr_scraped_7",
       "funder": "ICMR",
       "cat": "🔄 Live – ICMR",
       "title": "Serial Number Title",
       "status": "closing",
-      "dl": "2026-05-20",
-      "dlLabel": "May 20, 2026 🚨 URGENT",
-      "days_remaining": 1,
+      "dl": "2026-05-31",
+      "dlLabel": "May 31, 2026",
+      "days_remaining": 11,
       "funding": "As per ICMR norms",
       "cat2": "ICMR Grant / EoI",
       "tags": [
@@ -472,8 +498,8 @@
         "Pharmacy"
       ],
       "focus": "Health research — see official ICMR page for full details.",
-      "url": "https://www.icmr.gov.in/icmrobject/uploads/Call/1778740574_icmr_eoi_rt_lamp_diptheria_nic_2026.pdf",
-      "source": "icmr.gov.in (auto-scraped 19 May 2026, 05:57 PM IST)",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Call/1769782467_eoi-conceptnoteformulticentreclinicaltrials30012026.pdf",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
       "elig": [
         "Indian researchers at recognised institutions",
         "PI must hold MD/PhD or equivalent",
@@ -481,7 +507,36 @@
       ],
       "inelig": [],
       "scraped": true,
-      "scraped_at": "2026-05-19T17:57:35+05:30"
+      "scraped_at": "2026-05-20T17:34:33+05:30"
+    },
+    {
+      "id": "icmr_scraped_8",
+      "funder": "ICMR",
+      "cat": "🔄 Live – ICMR",
+      "title": "Corrigendum",
+      "status": "closing",
+      "dl": "2026-05-31",
+      "dlLabel": "May 31, 2026",
+      "days_remaining": 11,
+      "funding": "As per ICMR norms",
+      "cat2": "ICMR Grant / EoI",
+      "tags": [
+        "India",
+        "Clinical",
+        "Health",
+        "Pharmacy"
+      ],
+      "focus": "Health research — see official ICMR page for full details.",
+      "url": "https://www.icmr.gov.in/icmrobject/uploads/Call/1779251394_eoi_rct_datechange.pdf",
+      "source": "icmr.gov.in (auto-scraped 20 May 2026, 05:34 PM IST)",
+      "elig": [
+        "Indian researchers at recognised institutions",
+        "PI must hold MD/PhD or equivalent",
+        "See official call PDF for full eligibility"
+      ],
+      "inelig": [],
+      "scraped": true,
+      "scraped_at": "2026-05-20T17:34:33+05:30"
     },
     {
       "id": "static_001",
@@ -578,7 +633,7 @@
         "Projects without US institutional partner"
       ],
       "status": "open",
-      "days_remaining": 79
+      "days_remaining": 78
     },
     {
       "id": "static_004",
@@ -610,7 +665,7 @@
         "Researchers without confirmed US mentor"
       ],
       "status": "open",
-      "days_remaining": 198
+      "days_remaining": 197
     },
     {
       "id": "static_005",
@@ -641,7 +696,7 @@
         "Single-country proposals without US partner"
       ],
       "status": "closing",
-      "days_remaining": 6
+      "days_remaining": 5
     },
     {
       "id": "static_006",
@@ -672,7 +727,7 @@
         "Projects outside Merck's 2026 defined thematic areas"
       ],
       "status": "open",
-      "days_remaining": 104
+      "days_remaining": 103
     },
     {
       "id": "static_007",
@@ -769,7 +824,7 @@
         "High-income country-only proposals"
       ],
       "status": "open",
-      "days_remaining": 316
+      "days_remaining": 315
     },
     {
       "id": "static_010",
@@ -801,7 +856,7 @@
         "Basic science-only projects"
       ],
       "status": "open",
-      "days_remaining": 105
+      "days_remaining": 104
     },
     {
       "id": "static_011",
@@ -868,7 +923,7 @@
         "Standard clinical projects without interdisciplinary novelty"
       ],
       "status": "open",
-      "days_remaining": 135
+      "days_remaining": 134
     },
     {
       "id": "static_013",
@@ -965,7 +1020,7 @@
         "Foreign-only applicants without Indian institutional partner"
       ],
       "status": "open",
-      "days_remaining": 42
+      "days_remaining": 41
     },
     {
       "id": "static_016",
@@ -1072,7 +1127,7 @@
         "Stage 1 deadline (Mar 4, 2026) has passed — only full proposals invited now"
       ],
       "status": "open",
-      "days_remaining": 121
+      "days_remaining": 120
     },
     {
       "id": "static_019",
